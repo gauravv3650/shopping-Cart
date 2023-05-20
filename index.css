@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: 'Rubik', sans-serif;
-    background-color: yellow;
+    background-color: rgb(155, 155, 50);
     color: FCFFB2;
     user-select: none;
 }
